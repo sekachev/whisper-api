@@ -1,0 +1,10 @@
+fastapi>=0.68.0
+uvicorn>=0.15.0
+pydantic>=1.8.0
+python-multipart  # For handling file uploads
+openai-whisper    # For the Whisper model
+torch            # Required by Whisper
+numpy            # Required by Whisper
+pystray          # For system tray functionality
+Pillow           # For image handling in system tray
+python-logging   # For logging functionality

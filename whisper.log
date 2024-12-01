@@ -1,0 +1,17 @@
+Starting application...
+2024-12-01 14:36:01,685 - INFO - Starting application
+2024-12-01 14:36:01,685 - INFO - Using Python executable: C:\Users\Nikolay\AppData\Local\Programs\Python\Python312\pythonw.exe
+2024-12-01 14:36:01,685 - INFO - Attempting to import api module
+2024-12-01 14:36:01,685 - INFO - Successfully imported api module
+2024-12-01 14:36:01,690 - INFO - Starting server process...
+2024-12-01 14:36:01,692 - INFO - Server process PID: 3948
+2024-12-01 14:36:02,884 - INFO - Starting uvicorn server...
+2024-12-01 14:36:02,900 - INFO - Started server process [3948]
+2024-12-01 14:36:02,900 - INFO - Started server process [3948]
+2024-12-01 14:36:02,900 - INFO - Waiting for application startup.
+2024-12-01 14:36:02,900 - INFO - Waiting for application startup.
+2024-12-01 14:36:02,900 - INFO - Application startup complete.
+2024-12-01 14:36:02,900 - INFO - Application startup complete.
+2024-12-01 14:36:02,900 - INFO - Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2024-12-01 14:36:02,900 - INFO - Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2024-12-01 14:36:04,742 - INFO - Whisper API server started successfully
